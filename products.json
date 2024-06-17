@@ -1,0 +1,65 @@
+[
+
+    {
+        "name": "iphone",
+        "price": 343,
+        "company": "apple",
+        "featured": true
+    },
+    {
+        "name": "vivo y96",
+        "price": 65,
+        "company": "vivo",
+        "featured": false
+    },
+    {
+        "name": "oppo f13",
+        "price": 45,
+        "company": "oppo",
+        "featured": false
+    },
+    {
+        "name": "mi 14",
+        "price": 21,
+        "company": "mi",
+        "featured": false
+    },
+    {
+        "name": "realme 9",
+        "price": 541,
+        "company": "realme",
+        "featured": true
+    },
+    {
+        "name": "oppo 45",
+        "price": 343,
+        "company": "oppo",
+        "featured": true
+    },
+    {
+        "name": "vivo t",
+        "price": 343,
+        "company": "vivo",
+        "featured": true
+    },
+    {
+        "name": "iphone 15",
+        "price": 500,
+        "company": "apple",
+        "featured": false
+    },
+    {
+        "name": "watch",
+        "price": 200,
+        "company": "apple",
+        "featured": false
+    },
+    {
+        "name": "realme 12",
+        "price": 300,
+        "company": "realme",
+        "featured": false
+    }
+
+
+]
